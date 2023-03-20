@@ -1,0 +1,10 @@
+.mystyle{
+    background-color: black;
+}
+
+.box{
+    height: 500px;
+    width:500px;
+    margin-bottom: 25px;
+    background-color: green;
+}
